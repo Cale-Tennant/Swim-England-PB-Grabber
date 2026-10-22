@@ -14,10 +14,12 @@ Features:
 
 Screenshots:
 Results Table:
-![Swimming results table](screenshots/Results_Table.png)
+
+<img src="screenshots/Results_Table.png" width="500">
 
 Settings:
-![Program settings](screenshots/Settings.png)
+
+<img src="screenshots/Settings.png" width="500">
 
 
 
