@@ -12,6 +12,15 @@ Features:
 - Outputs results in a table to make them easily readable for the user.
 
 
+Screenshots:
+Results Table:
+![Swimming results table](screenshots/Results_Table.png)
+
+Settings:
+![Program settings](screenshots/Settings.png)
+
+
+
 What I learned:
 Developing this project helped me improve my Python programming skills and understand the challenges involved in retrieving and processing data from an external source. It also gave me experience developing a practical tool to solve a real specific problem.
 
